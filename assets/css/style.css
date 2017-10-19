@@ -1,0 +1,54 @@
+body{
+	font-family: 'Rokkitt', serif;
+}
+h1{
+	font-size: 40px;
+}
+hr{
+	margin-left: 0px;
+	background-color: teal;
+	height: 7px;
+	width: 130px;
+}
+div{
+	/*outline: red;*/
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 20px;
+}
+
+p{
+	/*outline: blue;*/
+	font-size: 25px;
+	top: 240px;
+	position: relative;
+	color: teal;
+	width: 100%;
+	background-color: #CFCFCF;
+	text-align: right;
+}
+#Pug{
+	background-image: url(../img/Pug.jpg);
+	background-size: 100%;
+}
+#Husky{
+	background-image: url(../img/Husky.jpg);
+	background-size: 100%;
+}
+#Doberman{
+	background-image: url(../img/Doberman.jpg);
+	background-size: 100%;
+}
+#GranDanes{
+	background-image: url(../img/GranDanes.jpg);
+	background-size: 100%;
+}
+#Corgi{
+	background-image: url(../img/Corgi.jpg);
+	background-size: 100%;
+}
+#Rott{
+	background-image: url(../img/Rott.jpg);
+	background-size: 100%;
+}
